@@ -1,12 +1,17 @@
 
 
+import Sam from "./Sam"
 
 
 function App() {
-
+  const username = "Sanmesh"
 
   return (
-   <h1> Sanmesh Patil </h1>
+    <>
+    <Sam/>
+    <h1>React {username}</h1>
+    <p>test para</p>
+   </>
   )
 }
 
