@@ -26,7 +26,7 @@ const anotherElement = (
 
 
 
-const anotherUser = "chai aur react"
+const anotherUser = "React Practice"
 
 const reactElement = React.createElement(
     'a',
